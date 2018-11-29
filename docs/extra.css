@@ -1,0 +1,46 @@
+body {
+	font-size: 16px;
+}
+
+.navbar-default {
+	background-color: #004e73;
+	background-image: url(shield.svg);
+	background-repeat: no-repeat;
+	background-position: 20px 14px;
+}
+
+.navbar-default .navbar-brand {
+	color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #b8cad6;
+}
+
+.navbar-brand {
+	padding-left: 55px;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #ffffff;
+}
+
+a {
+	color: #0097cb;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+	color: #ffffff;
+}
+
+a:hover, a:focus {
+	color: #004e73;
+}
+
+.bs-sidebar .nav > .active > a, .bs-sidebar .nav > .active:hover > a, .bs-sidebar .nav > .active:focus > a {
+	color: #004e73;
+}
+
+footer p {
+	display: none;
+}

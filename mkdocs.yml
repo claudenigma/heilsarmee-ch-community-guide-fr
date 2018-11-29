@@ -1,0 +1,36 @@
+site_name: Heilsarmee Community Websites Guide
+theme: flatly
+extra_css:
+  - extra.css
+nav:
+- Home: 'index.md'
+- Start:
+  - 'de/00.00-prep.md'
+  - 'de/00.01-login.md'
+  - 'de/00.02-back-and-front.md'
+  - 'de/00.03-config.md'
+- Medien:
+  - 'de/01.00-choosing-images.md'
+  - 'de/01.01-library.md'
+  - 'de/01.02-metadata.md'
+- Module:
+  - 'de/02.00-module-basics.md'
+  - 'de/02.01-modules.md'
+  - Text: 'de/02.01-modules/#text'
+  - Image and Text: 'de/02.01-modules/#image-and-text'
+  - Storytelling: 'de/02.01-modules/#storytelling'
+  - Text and Icon Blocks: 'de/02.01-modules/#text-and-icon-blocks'
+  - List: 'de/02.01-modules/#list'
+  - Cards: 'de/02.01-modules/#cards'
+  - Map and Office Hours: 'de/02.01-modules/#map-and-office-hours'
+  - Store Locator: 'de/02.01-modules/#store-locator'
+  - Churchtool: 'de/02.01-modules/#churchtool-calendar'
+  - Infohub: 'de/02.01-modules/#infohub-articles'
+  - Contact form: 'de/02.01-modules/#contact-form'
+- Weiteres:
+  - 'de/03.00-links.md'
+  - 'de/03.01-quicklinks.md'
+  - 'de/03.02-icons.md'
+  - 'de/03.03-embed.md'
+  - 'de/03.04-multilingual.md'
+  - 'de/03.05-finish.md'

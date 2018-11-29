@@ -1,20 +1,18 @@
-# Heilsarmee Community Websites Benutzerhandbuch
+# Manuel d’utilisation des sites web de la Community Armée du Salut
 
-#### Français bientôt
+Bienvenue dans le manuel d’utilisation destiné aux administrateurs des sites web de la Community Armée du Salut. De l'ouverture de session à la publication, le manuel passe en revue tous les aspects du nouvel outil pour la gestion de vos pages web et tente de répondre à la plupart de vos questions. Si vous avez besoin d'aide supplémentaire, si vous avez des questions ou si vous trouvez des erreurs, veuillez consulter ci-dessous la [liste des personnes de contact](#personnes-de-contact).
 
-Herzlich Willkommen zum Handbuch für die Webseiten-Administratoren der Heilsarmee Community. Hier werden vom Login bis zur Veröffentlichung alle Aspekte des neuen Tools für Ihre Webseiten durchgegangen. Wir versuchen die meisten Ihrer Fragen zu beantworten. Falls Sie noch weitere Hilfe benötigen, Fragen haben oder Fehler finden, so sehen Sie unten eine [Adresse](#hilfe), an welche Sie sich wenden können.
+Actuellement, vous pouvez encore vous inscrire aux ateliers proposés à Bienne, Zurich et Genève dans la semaine du 28.1. au 1.2.2019 : [Formulaire d'inscription](https://calendly.com/ateliers-heilsarmee)
 
-Aktuell können Sie sich hier noch zu den Ateliers in Biel, Zürich und Genf in der Woche 28.1. - 1.2.2019 anmelden: [Anmeldeformular](https://calendly.com/ateliers-heilsarmee)
+## Comment s'y retrouver
 
-## Sich zurecht finden
+Vous avez plusieurs possibilités pour naviguer dans le manuel. En haut du menu, vous trouverez tous les chapitres de la documentation répartis en quatre catégories. Les boutons « Previous » et « Next » (en haut à droite) vous permettent de parcourir le manuel complet page par page. Si vous cherchez des informations sur un sujet spécifique, utilisez la fonction de recherche avec le bouton « Search » (en haut à droite). Plus bas sur cette page, vous trouverez une [tables des matières couvrant l'ensemble de la documentation](#inhaltsverzeichnis). Vous y trouverez également un [lien pour télécharger le manuel complet au format PDF](#pdf-download)., si vous souhaitez l'imprimer sur papier.
 
-Sie können auf verschiedene Weisen durch das Handbuch navigieren. Oben im Menü finden Sie alle Kapitel der Dokumentation in vier Kategorien gegliedert. Mit den Buttons "Previous" und "Next" (oben rechts) können Sie das komplette Handbuch Seite für Seite durchgehen. Wenn Sie Informationen zu einem bestimmten Thema suchen, so benutzen Sie die Suchfunktion über den Button "Search" (oben rechts). Weiter unten auf dieser Seite folgt zusätzlich ein [Inhaltsverzeichnis über die gesamte Dokumentation](#inhaltsverzeichnis). Sie finden dort auch einen [Download-Link um das gesamte Handbuch als PDF herunterzuladen](#pdf-download).
-
-## Hilfe
+## Personnes de contact
 
 [enigma@heilsarmee.ch](mailto:enigma@heilsarmee.ch)
 
-## Inhaltsverzeichnis
+## Table des matières
 
 - [Home](index.md)
     + [Sich zurecht finden](index.md#sich-zurecht-finden)
@@ -77,6 +75,6 @@ Sie können auf verschiedene Weisen durch das Handbuch navigieren. Oben im Menü
 - [Mehrsprachigkeit](de/03.04-multilingual.md)
 - [Veröffentlichung Ihrer Webseite](de/03.05-finish.md)
 
-## PDF-Download
+## Téléchargement PDF
 
-Kommt bald
+Bientôt disponible

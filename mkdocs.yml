@@ -1,19 +1,19 @@
-site_name: Heilsarmee Community Websites Guide
+site_name: Guide Sites Web Community Armée du Salut 
 theme: flatly
 extra_css:
   - extra.css
 nav:
 - Home: 'index.md'
-- Start:
+- Départ:
   - 'fr/00.00-prep.md'
   - 'fr/00.01-login.md'
   - 'fr/00.02-back-and-front.md'
   - 'fr/00.03-config.md'
-- Medien:
+- Médias:
   - 'fr/01.00-choosing-images.md'
   - 'fr/01.01-library.md'
   - 'fr/01.02-metadata.md'
-- Module:
+- Modules:
   - 'fr/02.00-module-basics.md'
   - 'fr/02.01-modules.md'
   - Text: 'fr/02.01-modules/#text'
@@ -27,7 +27,7 @@ nav:
   - Churchtool: 'fr/02.01-modules/#churchtool-calendar'
   - Infohub: 'fr/02.01-modules/#infohub-articles'
   - Contact form: 'fr/02.01-modules/#contact-form'
-- Weiteres:
+- Plus:
   - 'fr/03.00-links.md'
   - 'fr/03.01-quicklinks.md'
   - 'fr/03.02-icons.md'

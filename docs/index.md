@@ -1,5 +1,7 @@
 # Manuel d’utilisation des sites web de la Community Armée du Salut
 
+[DEUTSCH HIER](https://community.heilsarmee.ch/guide)
+
 Bienvenue dans le manuel d’utilisation destiné aux administrateurs des sites web de la Community Armée du Salut. De l'ouverture de session à la publication, le manuel passe en revue tous les aspects du nouvel outil pour la gestion de vos pages web et tente de répondre à la plupart de vos questions. Si vous avez besoin d'aide supplémentaire, si vous avez des questions ou si vous trouvez des erreurs, veuillez consulter ci-dessous la [liste des personnes de contact](#personnes-de-contact).
 
 Actuellement, vous pouvez encore vous inscrire aux ateliers proposés à Bienne, Zurich et Genève dans la semaine du 28.1. au 1.2.2019 : [Formulaire d'inscription](https://calendly.com/ateliers-heilsarmee)

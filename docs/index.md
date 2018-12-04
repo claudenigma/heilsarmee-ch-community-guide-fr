@@ -8,7 +8,7 @@ Actuellement, vous pouvez encore vous inscrire aux ateliers proposés à Bienne,
 
 ## Comment s'y retrouver
 
-Vous avez plusieurs possibilités pour naviguer dans le manuel. En haut du menu, vous trouverez tous les chapitres de la documentation répartis en quatre catégories. Les boutons « Previous » et « Next » (en haut à droite) vous permettent de parcourir le manuel complet page par page. Si vous cherchez des informations sur un sujet spécifique, utilisez la fonction de recherche avec le bouton « Search » (en haut à droite). Plus bas sur cette page, vous trouverez une [tables des matières couvrant l'ensemble de la documentation](#table-des-matieres). Vous y trouverez également un [lien pour télécharger le manuel complet au format PDF](#telechargement-pdf), si vous souhaitez
+Vous avez plusieurs possibilités pour naviguer dans le manuel. En haut du menu, vous trouverez tous les chapitres de la documentation répartis en quatre catégories. Les boutons « Previous » et « Next » (en haut à droite) vous permettent de parcourir le manuel complet page par page. Si vous cherchez des informations sur un sujet spécifique, utilisez la fonction de recherche avec le bouton « Search » (en haut à droite). Plus bas sur cette page, vous trouverez une [tables des matières couvrant l'ensemble de la documentation](#table-des-matieres). Vous y trouverez également un [lien pour télécharger le manuel complet au format PDF](#telechargement-pdf), si vous souhaitez l'imprimer.
 
 ## Personnes de contact
 

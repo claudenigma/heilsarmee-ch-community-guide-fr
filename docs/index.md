@@ -82,4 +82,5 @@ Vous avez plusieurs possibilités pour naviguer dans le manuel. En haut du menu,
 ## Téléchargement PDF
 
 Français: [Download](http://community.heilsarmee.ch/wp-content/uploads/2018/12/guide-fr-v5.pdf)
+
 Deutsch: [Download](http://community.heilsarmee.ch/wp-content/uploads/2018/12/guide-de-v4.pdf)
